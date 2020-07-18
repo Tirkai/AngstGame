@@ -11,6 +11,22 @@ namespace Character.CharacterProperties
         HealthAmount,
         HealthRegeneratonAmount,
         HealthRegenerationRate,
-        HealthMaximumAmount
+        HealthMaximumAmount,
+        EnergyAmount,
+        EnergyRechargeAmount,
+        EnergyRechargeRate,
+        EnergyDecayAmount,
+        EnergyDecayRate,
+        EnergyRetentionAmount,
+        StaminaAmount,
+        StaminaMaximumAmount,
+        StaminaRegenerationAmount,
+        StaminaRegenerationRate,
+        ArmourAmount,
+        FireResistance,
+        ColdResistance,
+        LightingResistance,
+        DeliriumResistance,
+        MoveSpeedAmount,
     }
 }
